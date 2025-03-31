@@ -1,7 +1,7 @@
 # Genome_Analysis-UU
 Project coursework for Genome Analysis
 
-# =====================GA lab introduction======================
+=====================GA lab introduction======================
 
 1. Deadline: 	3rd April: 	project plan
 		23rd May:	Upload GitHub links
@@ -25,7 +25,7 @@ AI policy: 	Can- for code and interpretations
 
 #Uppmax: (https://uppmaxsupport.doc.se)
 
-# ============================= Paper 3 ===================================
+============================= Paper 3 ===================================
 
 * Preprocessing: DNA and RNA trimming check (DNA might be trimmed, 	RNA is not, verify)
 * Link individual files of interest to your directory, not the 	folder (folder size is too big)
