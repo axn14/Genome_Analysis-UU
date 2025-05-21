@@ -1,0 +1,4 @@
+for f in /home/anirudh/GA_Lab/New_Prokka_HighQ_output/bin*/bin*.gff; do
+    awk '/^##FASTA/{exit} {print}' "$f" > "${f%.gff}.cleaned.gff"
+done
+

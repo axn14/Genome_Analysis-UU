@@ -1,0 +1,6 @@
+cd /home/anirudh/GA_Lab/new_mapping_results_139
+
+for file in bin*_rna.bam bin*_rna.bam.bai; do
+    mv "$file" "D3${file}"
+done
+
